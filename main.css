@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Castoro+Titling&family=Lora&family=Nanum+Myeongjo&family=Playfair+Display&family=Playfair+Display+SC&display=swap');
+
+body {
+	background-color: #ebeced;
+}
+
+.all {
+	max-width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.page-header {
+	font-family: Castoro Titling, cursive;
+	font-weight: bold;
+	color: darkred;
+	text-align: center;
+	font-size: 25px;
+	background-color: #c7c8c9;
+}
+
+h1 {
+	font-family: Castoro Titling, cursive;
+	color: black;
+	font-size: 48px;
+	margin-bottom: 0px;
+	font-style: italic;
+	max-width: 100%;
+}
+
+.subheading {
+	font-family: Playfair Display, serif;
+	font-weight: lighter;
+	color: black;
+	font-size: 16px;
+	padding-top: 0px;
+	padding-bottom: 15px;
+}
+
+.border {
+	border-bottom: darkgray solid 1px;
+}
+
+.byline {
+	font-family: Playfair Display, serif;
+	color: black;
+	font-size: 17px;
+	font-weight: normal;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	line-height: 0px;
+}
+
+.byline-2 {
+	font-family: Playfair Display, serif;
+	color: gray;
+	font-size: 15px;
+	font-weight: normal;
+	padding-top: 0px;
+	margin-top: 0px;
+	line-height: 8px;
+}
+
+img {
+	max-width: 900px;
+	display: block;
+	margin: 30px auto 5px auto; 
+}
+
+.caption-1 {
+	font-family: Playfair Display, serif;
+	font-size: 15px;
+	color: gray;
+}
+
+.body {
+	font-family: Playfair Display, serif;
+	font-size: 18px;
+	color: black;
+	font-weight: normal;
+
+}
+
+.vis-1 {
+	background-color: white;
+	padding: 25px;
+}
+
+.vis-2 {
+	background-color: white;
+	padding: 25px;
+}
+
+
+.bottom-byline {
+	font-family: Playfair Display, arial;
+	font-size: 25px;
+	color: darkred;
+}
+
+.bottom-description {
+	font-family: Playfair Display, arial;
+	font-size: 18px;
+	color: black;
+	line-height: 18px;
+}
+
